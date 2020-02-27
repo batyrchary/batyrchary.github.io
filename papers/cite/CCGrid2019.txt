@@ -1,0 +1,16 @@
+Batyr Charyyev, Ahmed Alhussen, Hemanta Sapkota, Eric Pouyoul, Mehmet Gunes and Engin Arslan, "Towards Securing Data Transfers Against Silent Data Corruption" IEEE/ACM International Symposium in Cluster, Cloud, and Grid Computing (CCGrid) 2019.
+
+
+
+@INPROCEEDINGS{8752820,
+author={B. {Charyyev} and A. {Alhussen} and H. {Sapkota} and E. {Pouyoul} and M. H. {Gunes} and E. {Arslan}},
+booktitle={2019 19th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGRID)},
+title={Towards Securing Data Transfers Against Silent Data Corruption},
+year={2019},
+volume={},
+number={},
+pages={262-271},
+keywords={cache storage;cryptography;data integrity;silent data corruption;scientific applications;data transfer rates;end-to-end integrity verification;data integrity;silent disk corruptions;MD5;checksum operations;secure hash algorithms;SHA1;robust integrity verification algorithm;RIVA;page cache;file contents reading;securing data transfers;Silent data corruption;undetected read error;undetected write error;end to end integrity},
+doi={10.1109/CCGRID.2019.00040},
+ISSN={null},
+month={May},}

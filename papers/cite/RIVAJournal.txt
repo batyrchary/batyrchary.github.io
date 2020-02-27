@@ -1,0 +1,15 @@
+Batyr Charyyev and Engin Arslan, "RIVA: Robust Integrity Verification Algorithm for High-Speed File Transfers" IEEE Transactions on Parallel and Distributed Systems, vol. 31, no. 6, pp. 1387-1399, 1 June 2020
+
+
+@ARTICLE{8959149,
+author={B. {Charyyev} and E. {Arslan}},
+journal={IEEE Transactions on Parallel and Distributed Systems},
+title={RIVA: Robust Integrity Verification Algorithm for High-Speed File Transfers},
+year={2020},
+volume={31},
+number={6},
+pages={1387-1399},
+keywords={End-to-end integrity verification;file transfers;high performance networks;undetected disk errors;silent data corruption},
+doi={10.1109/TPDS.2020.2966616},
+ISSN={2161-9883},
+month={June},}

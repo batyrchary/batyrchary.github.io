@@ -1,0 +1,1 @@
+Ahmed Alhussen, Batyr Charyyev, Engin Arslan, "Is End-to-End Integrity Verification Really End-to-End?" 3rd Joint International Workshop On Parallel Data Storage & Data Intensive Scalable Computing Systems (PDSW-DISCS) (co-located with IEEE/ACM Supercomputing 2018)

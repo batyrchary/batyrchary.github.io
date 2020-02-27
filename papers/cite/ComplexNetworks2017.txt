@@ -1,0 +1,22 @@
+Travis Goldade, Batyr Charyyev, Mehmet Hadi Gunes, "Network Analysis of Migration Patterns in the United States", International Conference on Complex Networks and their Applications, Lyon, France, November 2017
+
+
+
+@InProceedings{10.1007/978-3-319-72150-7_62,
+author="Goldade, Travis
+and Charyyev, Batyr
+and Gunes, Mehmet Hadi",
+editor="Cherifi, Chantal
+and Cherifi, Hocine
+and Karsai, M{\'a}rton
+and Musolesi, Mirco",
+title="Network Analysis of Migration Patterns in the United States",
+booktitle="Complex Networks {\&} Their Applications VI",
+year="2018",
+publisher="Springer International Publishing",
+address="Cham",
+pages="770--783",
+abstract="United States (US) internal migration is a seldom studied and poorly understood topic that lies mainly within the realm of economics. This paper attempts to utilize complex network analysis to gain a better understanding of the migration patterns in the US, and how it evolves over the time. In particular, we analyze migration patterns in the US during differing times of the economic prosperity of the housing boom (i.e., 2004--2007) and the recession (i.e., 2008--2011) through complex network analyses. Additionally, we explore whether there is a correlation between the political affiliation of a county and the migration patterns.",
+isbn="978-3-319-72150-7"
+}
+
