@@ -1,0 +1,12 @@
+B. Charyyev and M. H. Gunes, "Locality-Sensitive IoT Network Traffic Fingerprinting for Device Identification," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2020.3035087.
+
+
+@ARTICLE{9246572,
+  author={B. {Charyyev} and M. H. {Gunes}},
+  journal={IEEE Internet of Things Journal}, 
+  title={Locality-Sensitive IoT Network Traffic Fingerprinting for Device Identification}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/JIOT.2020.3035087}}
